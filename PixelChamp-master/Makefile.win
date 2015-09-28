@@ -1,0 +1,90 @@
+# Project: newproj
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = "attempt2\ -\ Copy.o" timer.o base.o setup.o tile.o dot.o mtile.o mapLoader.o turret.o story.o weapon.o enemy.o playerstats.o companion.o converter.o playerCreator.o playerTile.o jumper.o charger.o sword.o gun.o $(RES)
+LINKOBJ  = "attempt2 - Copy.o" timer.o base.o setup.o tile.o dot.o mtile.o mapLoader.o turret.o story.o weapon.o enemy.o playerstats.o companion.o converter.o playerCreator.o playerTile.o jumper.o charger.o sword.o gun.o $(RES)
+LIBS =  -L"lib" -L"C:/SDL-1.2.15/lib" -mwindows -lmingw32 -lSDLmain -lSDL -lSDL_ttf -lmingw32 -lSDLmain -lSDL -lSDL_image -lmingw32 -lSDLmain -lSDL -lSDL_mixer  
+INCS =  -I"include" 
+CXXINCS =  -I"lib/gcc/mingw32/3.4.2/include"  -I"include/c++/3.4.2/backward"  -I"include/c++/3.4.2/mingw32"  -I"include/c++/3.4.2"  -I"include"  -I"C:/SDL-1.2.15/include/SDL" 
+BIN  = newproj.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before newproj.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "newproj.exe" $(LIBS)
+
+"attempt2\ -\ Copy.o": attempt2\ -\ Copy.cpp
+	$(CPP) -c "attempt2 - Copy.cpp" -o "attempt2 - Copy.o" $(CXXFLAGS)
+
+timer.o: timer.cpp
+	$(CPP) -c timer.cpp -o timer.o $(CXXFLAGS)
+
+base.o: base.cpp
+	$(CPP) -c base.cpp -o base.o $(CXXFLAGS)
+
+setup.o: setup.cpp
+	$(CPP) -c setup.cpp -o setup.o $(CXXFLAGS)
+
+tile.o: tile.cpp
+	$(CPP) -c tile.cpp -o tile.o $(CXXFLAGS)
+
+dot.o: dot.cpp
+	$(CPP) -c dot.cpp -o dot.o $(CXXFLAGS)
+
+mtile.o: mtile.cpp
+	$(CPP) -c mtile.cpp -o mtile.o $(CXXFLAGS)
+
+mapLoader.o: mapLoader.cpp
+	$(CPP) -c mapLoader.cpp -o mapLoader.o $(CXXFLAGS)
+
+turret.o: turret.cpp
+	$(CPP) -c turret.cpp -o turret.o $(CXXFLAGS)
+
+story.o: story.cpp
+	$(CPP) -c story.cpp -o story.o $(CXXFLAGS)
+
+weapon.o: weapon.cpp
+	$(CPP) -c weapon.cpp -o weapon.o $(CXXFLAGS)
+
+enemy.o: enemy.cpp
+	$(CPP) -c enemy.cpp -o enemy.o $(CXXFLAGS)
+
+playerstats.o: playerstats.cpp
+	$(CPP) -c playerstats.cpp -o playerstats.o $(CXXFLAGS)
+
+companion.o: companion.cpp
+	$(CPP) -c companion.cpp -o companion.o $(CXXFLAGS)
+
+converter.o: converter.cpp
+	$(CPP) -c converter.cpp -o converter.o $(CXXFLAGS)
+
+playerCreator.o: playerCreator.cpp
+	$(CPP) -c playerCreator.cpp -o playerCreator.o $(CXXFLAGS)
+
+playerTile.o: playerTile.cpp
+	$(CPP) -c playerTile.cpp -o playerTile.o $(CXXFLAGS)
+
+jumper.o: jumper.cpp
+	$(CPP) -c jumper.cpp -o jumper.o $(CXXFLAGS)
+
+charger.o: charger.cpp
+	$(CPP) -c charger.cpp -o charger.o $(CXXFLAGS)
+
+sword.o: sword.cpp
+	$(CPP) -c sword.cpp -o sword.o $(CXXFLAGS)
+
+gun.o: gun.cpp
+	$(CPP) -c gun.cpp -o gun.o $(CXXFLAGS)

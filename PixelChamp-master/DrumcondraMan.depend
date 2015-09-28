@@ -1,0 +1,5795 @@
+# depslib dependency file v1.0
+1397382423 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\close_code.h
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382591224 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376163542 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376163626 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376163744 c:\sdl2-2.0.1\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\to the surface\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\to the surface\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\to the surface\tileheader.h
+
+1396725986 c:\users\karl\desktop\new stuff\branch 2\to the surface\dotheader.h
+
+1394922770 c:\users\karl\desktop\new stuff\branch 2\to the surface\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\to the surface\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\to the surface\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\to the surface\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\to the surface\turretheader.h
+	"SDL.h"
+
+1394921978 c:\users\karl\desktop\new stuff\branch 2\to the surface\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\to the surface\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\to the surface\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\to the surface\gunheader.h
+
+1392742806 c:\users\karl\desktop\new stuff\branch 2\to the surface\jumperheader.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface\chargerheader.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\to the surface\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\to the surface\companionheader.h
+
+1396012158 c:\users\karl\desktop\new stuff\branch 2\to the surface\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1393434388 c:\users\karl\desktop\new stuff\branch 2\to the surface\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\to the surface\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\to the surface\playercreatorheader.h
+	<fstream>
+
+1396532225 c:\users\karl\desktop\new stuff\branch 2\to the surface\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\to the surface\charselect.h
+	"SDL.h"
+
+1396536410 c:\users\karl\desktop\new stuff\branch 2\to the surface\menuheader.h
+	"SDL.h"
+
+1396567943 c:\users\karl\desktop\new stuff\branch 2\to the surface\particleheader.h
+	"SDL.h"
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1397222202 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1396534185 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1396740349 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1396220930 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1397387994 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1396038906 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397222202 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1396532388 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1394847488 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\gun.cpp
+	"SDL_image.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1393542594 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1397384513 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+
+1396570415 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1396569575 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1396579214 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1397050732 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1394634819 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\to the surface\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1397222202 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\enemyheader.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\chargerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\setupheader.h
+	"SDL.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\tileheader.h
+
+1396725986 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\dotheader.h
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\gunheader.h
+
+1397657321 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1393434388 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\particleheader.h
+	"SDL.h"
+
+1396534185 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1397659088 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\generatorheader.h
+	"SDL.h"
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\timerheader.h
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\charselect.h
+	"SDL.h"
+
+1396740349 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\companionheader.h
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\turretheader.h
+	"SDL.h"
+
+1397657321 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\crawlerheader.h
+
+1397692597 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\jumperheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\playerstatsheader.h
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397752636 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\playercreatorheader.h
+	<fstream>
+
+1397419471 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1397688571 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1393542594 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1397651425 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\maploaderheader.h
+	"SDL.h"
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\flyer.h
+
+1397647070 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1397646898 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\menuheader.h
+	"SDL.h"
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397431337 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1397690175 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1397417255 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1397693042 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (24) - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1397771776 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\tileheader.h
+
+1396725986 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\dotheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\gunheader.h
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\jumperheader.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\chargerheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\companionheader.h
+
+1397657321 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1393434388 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\playercreatorheader.h
+	<fstream>
+
+1397659088 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\charselect.h
+	"SDL.h"
+
+1397646898 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\particleheader.h
+	"SDL.h"
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1397222202 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1396534185 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1396740349 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1397657321 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1397692597 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1397752636 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1397419471 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1397688571 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1393542594 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1397647070 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1397431337 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1397417255 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1397760410 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+
+1397771460 source:c:\users\karl\desktop\new stuff\branch 2\to the surface - copy (37) - copy - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1399548795 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\tileheader.h
+
+1399495971 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\dotheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\gunheader.h
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\jumperheader.h
+
+1398681641 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\chargerheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\companionheader.h
+
+1398261238 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1393434388 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\particleheader.h
+	"SDL.h"
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1398686067 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1396534185 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1398263491 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1399549089 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1399566988 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1397419471 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1398947707 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1393542594 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1399546337 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1397431337 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1398777527 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1398676278 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1399549021 source:c:\users\karl\desktop\new stuff\branch 2\z-making_us_a_map_babay\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1400061336 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+	"catch.hpp"
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\a testing time\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\a testing time\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\a testing time\tileheader.h
+
+1399495971 c:\users\karl\desktop\new stuff\branch 2\a testing time\dotheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\a testing time\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\a testing time\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\a testing time\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\a testing time\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\a testing time\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\a testing time\gunheader.h
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\a testing time\jumperheader.h
+
+1398681641 c:\users\karl\desktop\new stuff\branch 2\a testing time\chargerheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\a testing time\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\a testing time\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\a testing time\companionheader.h
+
+1398261238 c:\users\karl\desktop\new stuff\branch 2\a testing time\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1393434388 c:\users\karl\desktop\new stuff\branch 2\a testing time\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\a testing time\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\a testing time\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\new stuff\branch 2\a testing time\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\a testing time\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\new stuff\branch 2\a testing time\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\a testing time\particleheader.h
+	"SDL.h"
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1399890493 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1396534185 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1398263491 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1399996931 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1399925849 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1397419471 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1398947707 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1393542594 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1400001168 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1399996518 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1399925265 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1398777527 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1398676278 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\a testing time\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1399892252 c:\users\karl\desktop\new stuff\branch 2\a testing time\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<string>
+	<cstddef>
+	<string>
+	<string>
+	<string>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<ostream>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<set>
+	<string>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<assert.h>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<sstream>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<cstring>
+
+1400106511 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+	"catch.hpp"
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\tileheader.h
+
+1399495971 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\dotheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\gunheader.h
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\jumperheader.h
+
+1398681641 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\chargerheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\companionheader.h
+
+1398261238 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1393434388 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\particleheader.h
+	"SDL.h"
+
+1399892252 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<string>
+	<cstddef>
+	<string>
+	<string>
+	<string>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<ostream>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<set>
+	<string>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<assert.h>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<sstream>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<cstring>
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1399890493 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1396534185 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1398263491 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1399996931 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1399925849 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1397419471 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1398947707 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1393542594 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1400074216 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1399996518 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1399925265 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1400110986 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1398676278 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (7) - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1400369489 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	"testSuite.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+	"catch.hpp"
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\tileheader.h
+
+1400796176 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\dotheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\gunheader.h
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\jumperheader.h
+
+1398681641 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\chargerheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\companionheader.h
+
+1398261238 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1400364973 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\particleheader.h
+	"SDL.h"
+
+1399892252 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<string>
+	<cstddef>
+	<string>
+	<string>
+	<string>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<ostream>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<set>
+	<string>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<assert.h>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<sstream>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<cstring>
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1399890493 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1400801272 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1400230106 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1400799938 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1400801002 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1397419471 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1400356265 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1400365062 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1400188582 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1400800220 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1399925265 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1400797549 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1398676278 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1400369311 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\testsuite.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"crawlerHeader.h"
+	"jumperHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	"charSelect.h"
+	"testSuite.h"
+	"generatorHeader.h"
+	"playerstatsHeader.h"
+
+1400367892 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (8) - copy - copy\testsuite.h
+
+1401969491 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	"testSuite.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+	"catch.hpp"
+
+946684800 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\tileheader.h
+
+1400796176 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\dotheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\enemyheader.h
+
+1369327844 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\timerheader.h
+
+1392041170 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\gunheader.h
+
+1397688517 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\jumperheader.h
+
+1398681641 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\chargerheader.h
+
+1397406385 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\flyer.h
+
+1392746060 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\companionheader.h
+
+1398261238 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1400364973 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\particleheader.h
+	"SDL.h"
+
+1400367892 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\testsuite.h
+
+1399892252 c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<string>
+	<cstddef>
+	<string>
+	<string>
+	<string>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<ostream>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<set>
+	<string>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<assert.h>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<sstream>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<cstring>
+
+1392250274 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1399890493 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1400801272 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1401840918 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1401918899 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1401841194 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1401927552 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1400356265 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1400365062 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1401924038 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1401802784 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1399925265 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1401961141 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1401839469 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1400369311 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\testsuite.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"crawlerHeader.h"
+	"jumperHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	"charSelect.h"
+	"testSuite.h"
+	"generatorHeader.h"
+	"playerstatsHeader.h"
+
+1393430076 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\new stuff\branch 2\a testing time - copy (17) - copy - copy - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1401969491 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	"testSuite.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+	"catch.hpp"
+
+946684800 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\tileheader.h
+
+1400796176 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\dotheader.h
+
+1397406385 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\enemyheader.h
+
+1369327844 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\timerheader.h
+
+1392041170 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\gunheader.h
+
+1397688517 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\jumperheader.h
+
+1398681641 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\chargerheader.h
+
+1397406385 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\flyer.h
+
+1392746060 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\companionheader.h
+
+1398261238 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1400364973 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\particleheader.h
+	"SDL.h"
+
+1400367892 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\testsuite.h
+
+1399892252 c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<string>
+	<cstddef>
+	<string>
+	<string>
+	<string>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<ostream>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<set>
+	<string>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<assert.h>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<sstream>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<cstring>
+
+1392250274 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1399890493 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1400801272 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1401840918 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1401918899 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1401841194 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1401927552 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1400356265 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1400365062 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1401924038 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1401802784 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1399925265 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1401961141 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1401839469 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1400369311 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\testsuite.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"crawlerHeader.h"
+	"jumperHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	"charSelect.h"
+	"testSuite.h"
+	"generatorHeader.h"
+	"playerstatsHeader.h"
+
+1393430076 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\college cleanup\new stuff\branch 2\a testing time - copy (25) - copy - copy - copy - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
+1407862757 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\attempt2 - copy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"SDL_ttf.h"
+	<string>
+	<fstream>
+	"bitmap_image.hpp"
+	"bitmap_image.hpp"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"timerHeader.h"
+	"setupHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"mapLoaderHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"Flyer.h"
+	"crawlerHeader.h"
+	"playerstatsHeader.h"
+	"companionHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"generatorHeader.h"
+	"charSelect.h"
+	"MenuHeader.h"
+	"particleHeader.h"
+	"testSuite.h"
+	<vector>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	<iostream>
+	<sstream>
+	"catch.hpp"
+
+946684800 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\bitmap_image.hpp
+	<iostream>
+	<string>
+	<fstream>
+	<iterator>
+	<limits>
+	<cmath>
+	<cstdlib>
+
+1392250274 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\baseheader.h
+	"SDL.h"
+	"SDL_image.h"
+
+1393430076 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\tileheader.h
+
+1400796176 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\dotheader.h
+
+1397406385 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\enemyheader.h
+
+1369327844 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\timerheader.h
+
+1392041170 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\setupheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\mtileheader.h
+	"SDL.h"
+
+1369320724 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\turretheader.h
+	"SDL.h"
+
+1397398562 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\maploaderheader.h
+	"SDL.h"
+
+1391904893 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\weaponheader.h
+
+1393586163 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\swordheader.h
+
+1394305499 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\gunheader.h
+
+1397688517 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\jumperheader.h
+
+1398681641 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\chargerheader.h
+
+1397406385 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\flyer.h
+
+1392746060 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\crawlerheader.h
+
+1394290805 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\playerstatsheader.h
+
+1396731562 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\companionheader.h
+
+1398261238 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\converterheader.h
+	<fstream>
+	"bitmap_image.hpp"
+
+1400364973 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\ltextureheader.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<fstream>
+
+1393858761 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\playertileheader.h
+
+1393867260 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\playercreatorheader.h
+	<fstream>
+
+1398814912 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\generatorheader.h
+	"SDL.h"
+
+1396532962 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\charselect.h
+	"SDL.h"
+
+1399491857 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\menuheader.h
+	"SDL.h"
+
+1397751129 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\particleheader.h
+	"SDL.h"
+
+1400367892 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\testsuite.h
+
+1399892252 c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\catch.hpp
+	<sstream>
+	<stdexcept>
+	<algorithm>
+	<ostream>
+	<string>
+	<memory>
+	<vector>
+	<stdlib.h>
+	<vector>
+	<sstream>
+	<iomanip>
+	<limits>
+	<vector>
+	<cstddef>
+	<string>
+	<cstddef>
+	<string>
+	<string>
+	<string>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<ostream>
+	<cstddef>
+	<stdint.h>
+	<string>
+	<iterator>
+	<vector>
+	<string>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<limits>
+	<string>
+	<set>
+	<string>
+	<string>
+	<set>
+	<map>
+	<vector>
+	<string>
+	<vector>
+	<streambuf>
+	<memory>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<map>
+	<algorithm>
+	<stdexcept>
+	<memory>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<string>
+	<ostream>
+	<map>
+	<assert.h>
+	<limits>
+	<algorithm>
+	<map>
+	<string>
+	<assert.h>
+	<set>
+	<string>
+	<fstream>
+	<stdlib.h>
+	<limits>
+	<vector>
+	<set>
+	<sstream>
+	<iostream>
+	<map>
+	<ostream>
+	<streambuf>
+	<stdexcept>
+	<cstdio>
+	<AfxWin.h>
+	<windows.h>
+	<unistd.h>
+	<vector>
+	<string>
+	<map>
+	<assert.h>
+	<windows.h>
+	<sys/time.h>
+	<iostream>
+	<assert.h>
+	<stdbool.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<sstream>
+	<iostream>
+	<string>
+	<vector>
+	<assert.h>
+	<cstring>
+
+1408025897 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\base.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+
+1399890493 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\charger.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1400801272 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\charselect.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"charSelect.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+
+1398945438 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\companion.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"companionHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1401840918 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\converter.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<stack>
+	"converterHeader.h"
+	"bitmap_image.hpp"
+
+1394417362 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\crawler.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"crawlerHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1410218902 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\dot.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"dotHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"chargerHeader.h"
+	"tileHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	<fstream>
+
+1397406385 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\enemy.cpp
+	"SDL.h"
+	"SDL_image.h"
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1397421955 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\flyer.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+
+1410218795 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\generator.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"generatorHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	<string>
+	<iostream>
+	<sstream>
+	<conio.h>
+	<string>
+	<iostream>
+	<sstream>
+	<string.h>
+	<ctime>
+
+1407961417 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\gun.cpp
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"setupHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"gunHeader.h"
+	"enemyHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	"converterHeader.h"
+	"particleHeader.h"
+
+1400356265 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\jumper.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"jumperHeader.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"particleHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+
+1400365062 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\ltexture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"LTextureHeader.h"
+	<stdio.h>
+	<string>
+
+1401924038 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\maploader.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	<fstream>
+	"setupHeader.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"turretHeader.h"
+	"mtileHeader.h"
+	"mapLoaderHeader.h"
+	"LTextureHeader.h"
+	"enemyHeader.h"
+	"Flyer.h"
+	"chargerHeader.h"
+	"dotHeader.h"
+	<ctime>
+
+1410219374 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\menu.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"MenuHeader.h"
+	"timerHeader.h"
+	"LTextureHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"playerstatsHeader.h"
+	"converterHeader.h"
+	"charSelect.h"
+	"generatorHeader.h"
+	"converterHeader.h"
+	<string>
+	<iostream>
+	<sstream>
+	<ctime>
+
+1394976059 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\mtile.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1397751145 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\particle.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	<fstream>
+	<cstdlib>
+	"particleHeader.h"
+	"LTextureHeader.h"
+	"tileHeader.h"
+
+1399925265 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\playercreator.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"playerCreatorHeader.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"TimerHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+	<cmath>
+	<sstream>
+
+1394290805 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\playerstats.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"playerstatsHeader.h"
+	<fstream>
+
+1396013649 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\playertile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"playerTileHeader.h"
+	"playerCreatorHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1407956043 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\setup.cpp
+	"SDL.h"
+	<fstream>
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"baseHeader.h"
+	"setupHeader.h"
+	"dotHeader.h"
+	"LTextureHeader.h"
+
+1401839469 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\sword.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	"setupHeader.h"
+	"swordHeader.h"
+	"LTextureHeader.h"
+
+1400369311 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\testsuite.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	<fstream>
+	"baseHeader.h"
+	"enemyHeader.h"
+	"chargerHeader.h"
+	"crawlerHeader.h"
+	"jumperHeader.h"
+	"Flyer.h"
+	"setupHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"weaponHeader.h"
+	"swordHeader.h"
+	"gunHeader.h"
+	"converterHeader.h"
+	"LTextureHeader.h"
+	"particleHeader.h"
+	"charSelect.h"
+	"testSuite.h"
+	"generatorHeader.h"
+	"playerstatsHeader.h"
+
+1393430076 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\tile.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"LTextureHeader.h"
+	<fstream>
+
+1360451002 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\timer.cpp
+	"SDL.h"
+	"timerHeader.h"
+
+1392224228 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\turret.cpp
+	"SDL.h"
+	"SDL_mixer.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"tileHeader.h"
+	"dotHeader.h"
+	"mtileHeader.h"
+	"turretHeader.h"
+	<fstream>
+
+1391904893 source:c:\users\karl\desktop\a testing time - copy (25) - copy - copy - copy - copy\weapon.cpp
+	"SDL.h"
+	"SDL_image.h"
+	"baseHeader.h"
+	"weaponHeader.h"
+	"dotHeader.h"
+	<fstream>
+
